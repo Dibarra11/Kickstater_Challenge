@@ -1,4 +1,4 @@
-# Kickstater_Challenge
+# Kickstater Challenge
 
 Based on our analysis, we must determine how different campaigns progressed based on their launch dates and funding goals. This information will help Louise make an informed decision on when it is the best time to launch a play and with what goal to have a higher success rate. 
 
