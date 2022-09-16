@@ -1,11 +1,12 @@
 # Kickstater_Challenge
 Based on our analysis, we must determine how different campaigns progressed based on their launch dates and funding goals. This information will help Louise make an informed decision on when it is the best time to launch a play and with what goal to have a higher success rate. 
 
-##Analysis of Outcomes Based on Launch Date - 
 
-![image](
-
+##Analysis of Outcomes Based on Launch Date
 The following line graph verifies that the best time to run a play campaign successfully is May through June. However, Louise should not launch a campaign during October as it has the highest failure rate at 50%.
+
+![image](https://github.com/Dibarra11/Kickstater_Challenge/blob/a0e16e7161f8f26f7cc6c49f5762138c7fe27b90/Theather%20Outcomes%20Based%20on%20Launch%20Date.png)
+
 
 ##Analysis of Outcomes Based on Goals
 
